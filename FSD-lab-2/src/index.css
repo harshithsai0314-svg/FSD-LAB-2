@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f9fc;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.nav-buttons {
+  margin: 15px 0;
+}
+
+.btn {
+  padding: 10px 18px;
+  margin: 0 6px;
+  border-radius: 6px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.home {
+  background: #3b82f6;
+}
+
+.about {
+  background: #22c55e;
+}
+
+.contact {
+  background: #a855f7;
+}
+
+.task-box {
+  background: #e0ecff;
+  border-left: 5px solid #3b82f6;
+  padding: 12px;
+  margin-top: 15px;
+  text-align: left;
+}
+
+.content {
+  background: white;
+  padding: 20px;
+  border-radius: 6px;
+  margin-top: 20px;
+}
